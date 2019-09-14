@@ -4,12 +4,12 @@ The course contains basics of backend development: fundamentals of NodeJS or Gol
 
 ## Table of Contents
 
-- [Contributing](#contributing)
+- [Git intro](#git-intro)
 - [License](#license)
 
-## Contributing
+## Git intro
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+![git_intro](task_01_git_intro/task_01_git_intro.png)
 
 ## License
 
