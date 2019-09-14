@@ -14,6 +14,8 @@ The course contains basics of backend development: fundamentals of NodeJS or Gol
 
 ## Unix shell
 
+![module_01_unix_shell](task_02_unix_shell/module_01_unix_shell.png)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
