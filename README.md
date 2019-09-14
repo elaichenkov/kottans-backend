@@ -14,7 +14,24 @@ The course contains basics of backend development: fundamentals of NodeJS or Gol
 
 ## Unix shell
 
+### Module 1
+
 ![module_01_unix_shell](task_02_unix_shell/module_01_unix_shell.png)
+___
+
+### Module 2
+
+![module_02_unix_shell](task_02_unix_shell/module_02_unix_shell.png)
+___
+
+### Module 3
+
+![module_03_unix_shell](task_02_unix_shell/module_03_unix_shell.png)
+___
+
+### Module 4
+
+![module_04_unix_shell](task_02_unix_shell/module_04_unix_shell.png)
 
 ## License
 
