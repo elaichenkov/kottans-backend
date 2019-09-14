@@ -5,11 +5,14 @@ The course contains basics of backend development: fundamentals of NodeJS or Gol
 ## Table of Contents
 
 - [Git intro](#git-intro)
+- [Unix shell](#unix-shell)
 - [License](#license)
 
 ## Git intro
 
 ![git_intro](task_01_git_intro/task_01_git_intro.png)
+
+## Unix shell
 
 ## License
 
