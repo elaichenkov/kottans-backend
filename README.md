@@ -11,6 +11,7 @@ The course contains basics of backend development: fundamentals of NodeJS or Gol
   - [Module 3](#module-3)
   - [Module 4](#module-4)
 - [GitHub collaboration](#github-collaboration)
+- [NodeJS basic 1](#nodejs-basic-1)
 - [License](#license)
 
 ## Git intro
@@ -42,6 +43,8 @@ ___
 ## GitHub collaboration
 
 ![github_collaboration](task_03_github_collaboration/task_03_github_collaboration.png)
+
+## NodeJS basic 1
 
 ## License
 
