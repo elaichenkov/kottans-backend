@@ -6,6 +6,10 @@ The course contains basics of backend development: fundamentals of NodeJS or Gol
 
 - [Git intro](#git-intro)
 - [Unix shell](#unix-shell)
+  - [Module 1](#module-1)
+  - [Module 2](#module-2)
+  - [Module 3](#module-3)
+  - [Module 4](#module-4)
 - [License](#license)
 
 ## Git intro
